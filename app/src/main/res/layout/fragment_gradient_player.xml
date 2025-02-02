@@ -99,7 +99,6 @@
                 android:id="@+id/nextSong"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_width="0dp"
                 android:ellipsize="marquee"
                 android:focusable="true" 
                 android:focusableInTouchMode="true" 
