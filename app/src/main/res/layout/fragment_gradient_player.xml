@@ -102,7 +102,7 @@
                 android:layout_weight="1"
                 android:ellipsize="marquee"
                 android:marqueeRepeatLimit="marquee_forever"
-                android:gravity="center_vertical"
+                android:gravity="center"
                 android:focusable="true"
                 android:singleLine="true"
                 android:textAppearance="@style/TextViewSubtitle1"
